@@ -21,7 +21,7 @@ div{
     padding: 100px 50px 40px;
     box-sizing: border-box;
 } */
- div p{
+ div>p{
     background-color: yellow;
 
  }
